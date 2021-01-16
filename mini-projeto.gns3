@@ -707,8 +707,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/12",
-                            "x": -71,
-                            "y": 28
+                            "x": -59,
+                            "y": 27
                         },
                         "node_id": "5c330155-99a7-4d0c-b481-9f7edd80e1e8",
                         "port_number": 12
@@ -769,8 +769,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/5",
-                            "x": -1,
-                            "y": -67
+                            "x": 6,
+                            "y": -63
                         },
                         "node_id": "fa810282-21f3-41e8-a50c-08e271a4743c",
                         "port_number": 5
@@ -831,8 +831,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/6",
-                            "x": 86,
-                            "y": -15
+                            "x": 60,
+                            "y": 6
                         },
                         "node_id": "fa810282-21f3-41e8-a50c-08e271a4743c",
                         "port_number": 6
@@ -1283,7 +1283,7 @@
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
                 "x": -281,
-                "y": -124,
+                "y": -121,
                 "z": 1
             },
             {
@@ -1365,7 +1365,7 @@
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
                 "x": -281,
-                "y": -34,
+                "y": -27,
                 "z": 1
             },
             {
@@ -1687,8 +1687,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "b9e40f87-98ad-4253-b14e-f12c031e0188",
                 "width": 51,
-                "x": 123,
-                "y": -214,
+                "x": 124,
+                "y": -212,
                 "z": 1
             },
             {
