@@ -22,8 +22,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"92\" width=\"184\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Vlan Eng. - VLAN 2\nVlan Admin. - VLAN3\nVlan Mark. - VLAN4\nVlan Video. - VLAN5</text></svg>",
-                "x": -578,
-                "y": -432,
+                "x": -699,
+                "y": -508,
                 "z": 2
             },
             {
