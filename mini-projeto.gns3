@@ -22,15 +22,15 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"92\" width=\"184\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Vlan Eng. - VLAN 2\nVlan Admin. - VLAN3\nVlan Mark. - VLAN4\nVlan Video. - VLAN5</text></svg>",
-                "x": -699,
-                "y": -508,
+                "x": -698,
+                "y": -495,
                 "z": 2
             },
             {
                 "drawing_id": "23a04ca3-0b18-438b-ab20-2765c088b893",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"25\" width=\"207\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">SWL3C* - f1/0...f1/2 s\u00e3o L3 </text></svg>",
+                "svg": "<svg height=\"29\" width=\"255\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">SWL3C* - f1/0...f1/2 s\u00e3o L3 </text></svg>",
                 "x": -327,
                 "y": -481,
                 "z": 2
